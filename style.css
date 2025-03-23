@@ -1,0 +1,13 @@
+/* style.css */
+body { background: #005792; }
+.card { 
+    width: 300px;
+    margin: 20px auto;
+}
+#horse { width: 100px; }
+button {
+    padding: 10px;
+    background: #c10000;
+    color: white;
+    border: none;
+}
